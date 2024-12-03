@@ -20,7 +20,7 @@ CREATE, INSERT, DELETE, UPDATE, SELECT e vários exemplos de JOIN
 - **Menu Swing**: Interface gráfica com menus interativos.
 - **JInternalFrame**: Uso de `JInternalFrame` para gerenciar janelas internas.
 - **DDL**: Data Definition Language: Comandos de CREATE, ALTER, DROP, TRUNCATE
-- **DML**: Data Manipulation Language: Comandos de  INSERT, UPDATE e DELETE e SELECT com foco no JOIN (INNER JOIN, LEFT JOIN, RIGTH JOIN, UNION e FULL JOIN)
+- **DML**: Data Manipulation Language: Comandos de  INSERT, UPDATE e DELETE e SELECT com foco no JOIN (INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION e FULL JOIN)
 - **CRUD**: Create Retrieved Update e Delete de carros para exemplo
 - **Login/Histórico**: JInternalFrame com funcionalidades de login com bloqueio de conta, desbloqeio e histórico de logins
 - **Transação**: Exemplo de comandos de SQL dentro de transação. AutoCommit(false). Commit e Rollback
